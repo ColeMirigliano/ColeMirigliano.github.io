@@ -7,8 +7,6 @@ h1 {
     text-align: center;
     color: #000000;
     font-weight: bolder;
-}
-.about {
-    background: #e3f4f7;
+    text-decoration: underline;
 }
 
