@@ -29,12 +29,15 @@ a {
 .projects {
     display: flex;
     justify-content: center;
-    gap: 60px; 
+    flex-wrap: wrap;
+    gap: 20px; 
   }
   
   .project {
     width: 3000px; 
     text-align: center; 
+    flex: 1 1 calc(33.333% - 20px); 
+    box-sizing: border-box;
   }
 
 
