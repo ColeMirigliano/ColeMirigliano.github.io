@@ -1,11 +1,11 @@
 body {
-    background: #4CBB17;
+    background: #bbedd7;
     font-family:"Times New Roman", Times, serif;
     margin: 40px;
 }
 h1 {
     text-align: center;
-    color: #000000;
+    color: #2E2E2E;
     font-weight: bolder;
     text-decoration: underline;
 }
@@ -19,7 +19,7 @@ h1 {
 }
 a {  
     text-decoration: underline;
-    color: rgb(0, 0, 0);
+    color: #2E2E2E;
 }
 .project p {  
     text-align: center;
@@ -51,7 +51,7 @@ a {
     width: 200px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid  rgb(126, 14, 201);
+    border: 2px solid  #013e47;
 }
 .about p {
     width:60%;
